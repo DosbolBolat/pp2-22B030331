@@ -1,5 +1,6 @@
 a = 33
 b = 200
+s = 1
 
 if b > a:
   pass
